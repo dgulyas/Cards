@@ -1,0 +1,16 @@
+﻿A person playing the game is a player.
+A player has HP which is an integer.
+If a players HP is ever <= 0, that player loses.
+If there is only one player that has not lost the game, that player wins.
+
+Game setup requirements
+Each player needs a deck of cards.
+There can be no more than 3 of the same card in a deck.
+A deck must have at least 20 cards in it.
+A player must have starting values for:
+	HP
+	MP
+	Armour
+	Number cards drawn a turn
+
+Game setup
