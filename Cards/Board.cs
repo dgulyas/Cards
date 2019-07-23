@@ -10,5 +10,6 @@ namespace Cards
     {
 
         public List<Player> Players;
+
     }
 }
